@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPokemonType xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <PokemonType id="1" name="Normal" weakness="2" ineffective="6;9" superEffective="" />
+  <PokemonType id="2" name="Fighting" weakness="3;14;18" ineffective="4;3;14;7;18" superEffective="1;15;6;17;9" />
+  <PokemonType id="3" name="Flying" weakness="13;15;6" ineffective="13;6;9" superEffective="12;2;7" />
+  <PokemonType id="4" name="Poison" weakness="5;14" ineffective="4;5;6;8" superEffective="12;18" />
+  <PokemonType id="5" name="Ground" weakness="11;12;15" ineffective="5;7" superEffective="10;13;4;6;9" />
+  <PokemonType id="6" name="Rock" weakness="11;12;2;5;9" ineffective="2;5;9" superEffective="10;15;3;7" />
+  <PokemonType id="7" name="Bug" weakness="10;3;6" ineffective="2;4;3;8;9;18" superEffective="12;14;17" />
+  <PokemonType id="8" name="Ghost" weakness="8;17" ineffective="17" superEffective="14;8" />
+  <PokemonType id="9" name="Steel" weakness="10;2;5" ineffective="10;11;13;9" superEffective="15;6;18" />
+  <PokemonType id="10" name="Fire" weakness="11;6;5" ineffective="10;11;6;16" superEffective="12;15;7;9" />
+  <PokemonType id="11" name="Water" weakness="13;12" ineffective="11;12;16" superEffective="10;5;6" />
+  <PokemonType id="12" name="Grass" weakness="10;15;4;3;7" ineffective="2;12;4;3;7;16;9" superEffective="11;5;6" />
+  <PokemonType id="13" name="Electric" weakness="5" ineffective="13;12;16" superEffective="11;3" />
+  <PokemonType id="14" name="Psychic" weakness="7;8;17" ineffective="14;9" superEffective="2;4" />
+  <PokemonType id="15" name="Ice" weakness="2;10;6;9" ineffective="10;11;15;9" superEffective="12;5;3;16" />
+  <PokemonType id="16" name="Dragon" weakness="15;16;18" ineffective="9" superEffective="16;14" />
+  <PokemonType id="17" name="Dark" weakness="2;7;18" ineffective="2;17;18" superEffective="8" />
+  <PokemonType id="18" name="Fairy" weakness="4;9" ineffective="10;4;9" superEffective="2;16;17" />
+</ArrayOfPokemonType>

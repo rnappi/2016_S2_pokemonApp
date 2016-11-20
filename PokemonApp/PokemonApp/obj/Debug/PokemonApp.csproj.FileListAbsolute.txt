@@ -1,0 +1,15 @@
+C:\Users\Nappi\Documents\GitHub\2016_S2_pokemonApp\PokemonApp\PokemonApp\bin\Debug\PokemonApp.exe.config
+C:\Users\Nappi\Documents\GitHub\2016_S2_pokemonApp\PokemonApp\PokemonApp\bin\Debug\PokemonApp.exe
+C:\Users\Nappi\Documents\GitHub\2016_S2_pokemonApp\PokemonApp\PokemonApp\bin\Debug\PokemonApp.pdb
+C:\Users\Nappi\Documents\GitHub\2016_S2_pokemonApp\PokemonApp\PokemonApp\obj\Debug\PokemonApp.csprojResolveAssemblyReference.cache
+C:\Users\Nappi\Documents\GitHub\2016_S2_pokemonApp\PokemonApp\PokemonApp\obj\Debug\PokemonApp.Properties.Resources.resources
+C:\Users\Nappi\Documents\GitHub\2016_S2_pokemonApp\PokemonApp\PokemonApp\obj\Debug\PokemonApp.csproj.GenerateResource.Cache
+C:\Users\Nappi\Documents\GitHub\2016_S2_pokemonApp\PokemonApp\PokemonApp\obj\Debug\PokemonApp.exe
+C:\Users\Nappi\Documents\GitHub\2016_S2_pokemonApp\PokemonApp\PokemonApp\obj\Debug\PokemonApp.pdb
+C:\Users\Nappi\Documents\GitHub\2016_S2_pokemonApp\PokemonApp\PokemonApp\obj\Debug\PokemonApp.Forms.AppStart.resources
+C:\Users\Nappi\Documents\GitHub\2016_S2_pokemonApp\PokemonApp\PokemonApp\obj\Debug\PokemonApp.Forms.About.resources
+C:\Users\Nappi\Documents\GitHub\2016_S2_pokemonApp\PokemonApp\PokemonApp\obj\Debug\PokemonApp.Forms.Pokedex.resources
+C:\Users\Nappi\Documents\GitHub\2016_S2_pokemonApp\PokemonApp\PokemonApp\obj\Debug\PokemonApp.UserControlls.UCPokemon.resources
+C:\Users\Nappi\Documents\GitHub\2016_S2_pokemonApp\PokemonApp\PokemonApp\obj\Debug\PokemonApp.Forms.PokemonDetail.resources
+C:\Users\Nappi\Documents\GitHub\2016_S2_pokemonApp\PokemonApp\PokemonApp\obj\Debug\PokemonApp.Forms.PokemonInventory.resources
+C:\Users\Nappi\Documents\GitHub\2016_S2_pokemonApp\PokemonApp\PokemonApp\obj\Debug\PokemonApp.UserControlls.UCPokemonInventory.resources
