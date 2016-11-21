@@ -45,6 +45,7 @@
             this.tbWeakness = new System.Windows.Forms.TextBox();
             this.tbSuperEffective = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
+            this.btAttack = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pbImage)).BeginInit();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
@@ -229,11 +230,22 @@
             this.label2.TabIndex = 12;
             this.label2.Text = "Super Effective";
             // 
+            // btAttack
+            // 
+            this.btAttack.Location = new System.Drawing.Point(486, 12);
+            this.btAttack.Name = "btAttack";
+            this.btAttack.Size = new System.Drawing.Size(75, 23);
+            this.btAttack.TabIndex = 14;
+            this.btAttack.Text = "Atacar";
+            this.btAttack.UseVisualStyleBackColor = true;
+            this.btAttack.Click += new System.EventHandler(this.btAttack_Click);
+            // 
             // PokemonDetail
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(576, 224);
+            this.Controls.Add(this.btAttack);
             this.Controls.Add(this.tbSuperEffective);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.tbWeakness);
@@ -274,5 +286,6 @@
         private System.Windows.Forms.TextBox tbWeakness;
         private System.Windows.Forms.TextBox tbSuperEffective;
         private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.Button btAttack;
     }
 }

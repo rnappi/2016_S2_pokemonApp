@@ -79,6 +79,12 @@
     <Compile Include="Forms\Pokedex.Designer.cs">
       <DependentUpon>Pokedex.cs</DependentUpon>
     </Compile>
+    <Compile Include="Forms\PokemonAttack.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\PokemonAttack.Designer.cs">
+      <DependentUpon>PokemonAttack.cs</DependentUpon>
+    </Compile>
     <Compile Include="Forms\PokemonDetail.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -114,6 +120,9 @@
     <EmbeddedResource Include="Forms\Pokedex.resx">
       <DependentUpon>Pokedex.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\PokemonAttack.resx">
+      <DependentUpon>PokemonAttack.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\PokemonDetail.resx">
       <DependentUpon>PokemonDetail.cs</DependentUpon>
     </EmbeddedResource>
@@ -128,6 +137,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="UserControlls\UCPokemon.resx">
       <DependentUpon>UCPokemon.cs</DependentUpon>
@@ -147,6 +157,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\data\images\Pokemon_logo.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

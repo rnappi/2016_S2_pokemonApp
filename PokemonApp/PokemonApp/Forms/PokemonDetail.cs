@@ -35,5 +35,11 @@ namespace PokemonApp.Forms
             tbWeakness.Text = pokemon.GetTypeName(pokemon.Weakness);
             tbSuperEffective.Text = pokemon.GetTypeName(pokemon.SuperEffective);
         }
+
+        private void btAttack_Click(object sender, EventArgs e)
+        {
+            PokemonAttack pa = new PokemonAttack(pokemon.Moves);
+            pa.ShowDialog();
+        }
     }
 }
